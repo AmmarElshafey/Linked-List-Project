@@ -1,5 +1,5 @@
 ## Linked List Project
-This C++ program implements a basic singly linked list. It demonstrates fundamental operations on a linked list such as inserting elements at the beginning, at the end, and before a specific element, deleting an element, checking if an element exists, and displaying the list.
+This C++ project implements a basic singly linked list. It demonstrates fundamental operations on a linked list such as inserting elements at the beginning, at the end, and before a specific element, deleting an element, checking if an element exists, and displaying the list.
 
 ## Features
 
